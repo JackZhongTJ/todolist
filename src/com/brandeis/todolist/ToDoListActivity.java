@@ -85,6 +85,7 @@ public class ToDoListActivity extends Activity {
 		super.onResume();
 		Log.d(tag, "In the onResume() event");
 		Log.d(tag, "just for github test");
+		Log.d(tag, "again,github test 2");
 	}
 	
 	public void onPause(){
