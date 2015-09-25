@@ -90,7 +90,6 @@ public class ToDoListActivity extends Activity {
 	
 	public void onPause(){
 		super.onPause();
-		Log.d(tag, "In the onPause() event");
 	}
 	
 	public void onStop(){
